@@ -14,3 +14,5 @@ You take the card ID *(if this is the url of a card https://trello.com/c/X2Mbg3o
 Then, you point that to the location this script in installed and it will add any new comments to the card, along with the email it came from.
 
 You must first authorize this "app" to use trello, this is accomplished by the commented code at the beginning of the script.
+
+bconglet
